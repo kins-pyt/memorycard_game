@@ -1,0 +1,82 @@
+{
+	"1" : {
+		"Name" : "Kebaya",
+		"Info" : "Kebaya adalah pakaian tradisional wanita yang dikenakan di berbagai daerah di Indonesia, seperti Jawa, Bali, dan Sunda. Kebaya biasanya dibuat dari kain tipis seperti brokat atau sutra, dihiasi bordir atau renda, dan dipadukan dengan kain batik, songket, atau sarung. Kebaya sering dikenakan pada acara resmi atau upacara adat."
+		},
+	"2" : {
+		"Name" : "Menak ",
+		"Info" : "Pakaian adat Sunda yang dikenal dengan nama Menak sering digunakan oleh kalangan bangsawan pada zaman dahulu. Pakaian ini terdiri dari jubah panjang (jas tutup) yang dikenakan oleh pria, dengan bawahan kain batik, serta ikat kepala yang disebut 'iket.' Untuk wanita, biasanya memakai kebaya Sunda dengan kain batik motif khas."
+		},
+	"3" : {
+		"Name" : "Ulos ",
+		"Info" : "Ulos adalah kain tenun tradisional Batak yang digunakan dalam berbagai acara adat. Pria biasanya mengenakan ulos sebagai selempang atau kain tambahan di pundak, sementara wanita mengenakannya sebagai selendang. Ulos memiliki warna dan motif khas yang sarat dengan makna filosofis."
+		},
+	"4" : {
+		"Name" : "Baju Bodo",
+		"Info" : "Baju Bodo adalah pakaian adat wanita Bugis. Ciri khasnya adalah potongan baju longgar dengan lengan pendek dan warna cerah, melambangkan status sosial atau usia pemakainya. Baju ini dipadukan dengan sarung sutra khas Bugis."
+		},
+	"5" : {
+		"Name" : "Beskap dan Blangkon",
+		"Info" : "Beskap adalah pakaian adat pria Jawa yang berbentuk jas dengan kerah tinggi, biasanya dikenakan bersama kain batik sebagai bawahan dan blangkon (penutup kepala). Beskap digunakan dalam acara formal seperti pernikahan atau upacara adat."
+		},
+	"6" : {
+		"Name" : "Sasak Lambung",
+		"Info" : "Baju adat Sasak Lambung digunakan oleh wanita Suku Sasak di Lombok. Baju ini berupa kain hitam dengan potongan menyerupai kebaya, biasanya dihiasi tenun khas Lombok. Untuk pria, pakaian adatnya sering dilengkapi kain songket dengan aksesoris ikat kepala."
+		},
+	"7" : {
+		"Name" : "Baju Kurung",
+		"Info" : "Baju Kurung adalah pakaian adat yang dikenakan oleh pria dan wanita Melayu. Wanita mengenakan baju longgar berlengan panjang dengan sarung, sedangkan pria memakai teluk belanga, celana panjang, dan kain samping."
+		},
+	"8" : {
+		"Name" : "Pakaian Adat Bali",
+		"Info" : "Pria Bali mengenakan udeng (ikat kepala), kemeja putih, dan kamen (kain sarung). Wanita memakai kebaya putih dan kamen dengan selendang kuning di pinggang, melambangkan keindahan dan kesucian."
+		},
+	"9" : {
+		"Name" : "Pakaian Adat Dayak",
+		"Info" : "Pakaian adat Dayak terbuat dari kain tenun khas dengan hiasan manik-manik dan bulu burung enggang. Wanita mengenakan baju rompi dan rok panjang, sedangkan pria mengenakan celana panjang dengan hiasan senada."
+		},
+	"10" : {
+		"Name" : "Rendang",
+		"Info" : "Rendang adalah masakan khas Minangkabau, Sumatera Barat, yang berbahan dasar daging sapi dimasak dalam santan kelapa dan campuran rempah-rempah. Proses memasaknya yang lama menghasilkan rasa yang kaya dan tekstur daging yang empuk. Rendang sering disajikan dalam acara adat Minangkabau atau sebagai hidangan utama dalam perayaan."
+		},
+	"11" : {
+		"Name" : "Mi Ayam",
+		"Info" : "Mi ayam adalah hidangan mi yang populer di berbagai daerah di Indonesia. Mi yang direbus disajikan dengan potongan ayam yang dimasak dengan kecap manis, bawang putih, dan rempah lainnya. Hidangan ini biasanya dilengkapi dengan sawi, pangsit, atau bakso, dan sering dijual di warung atau gerobak makanan keliling."
+		},
+	"12" : {
+		"Name" : "Tumpeng",
+		"Info" : "Tumpeng adalah hidangan khas Jawa berupa nasi kuning berbentuk kerucut yang disusun di tengah piring besar, dikelilingi oleh lauk-pauk seperti ayam goreng, telur, sambal goreng, tempe, dan urap sayur. Tumpeng sering disajikan dalam acara syukuran atau perayaan sebagai simbol rasa syukur kepada Tuhan."
+		},
+	"13" : {
+		"Name" : "Kue Putu",
+		"Info" : "Kue putu adalah jajanan tradisional yang terbuat dari tepung beras yang diisi dengan gula merah, kemudian dikukus dalam cetakan bambu. Kue ini biasanya disajikan dengan taburan kelapa parut dan memiliki aroma khas pandan. Kue putu sering dijual oleh pedagang keliling dengan suara khas uap kukusan."
+		},
+	"14" : {
+		"Name" : "Kue Pukis",
+		"Info" : "Kue pukis adalah kue tradisional yang terbuat dari adonan tepung terigu, santan, telur, dan gula, dimasak dalam cetakan setengah lingkaran. Kue ini memiliki rasa manis dan tekstur lembut, sering dihiasi dengan topping seperti keju, cokelat meses, atau kacang."
+		},
+	"15" : {
+		"Name" : "Kue Pepe",
+		"Info" : "Kue pepe adalah kue tradisional khas Betawi yang berbentuk lapis-lapis dengan warna-warna cerah, seperti hijau, merah, dan putih. Terbuat dari campuran tepung beras, tepung tapioka, santan, dan gula, kue ini memiliki tekstur kenyal dan rasa manis. Biasanya, kue ini disajikan sebagai kudapan dalam acara keluarga atau tradisional."
+		},
+	"16" : {
+		"Name" : "Onde-Onde",
+		"Info" : "Onde-onde adalah camilan tradisional berbentuk bulat yang terbuat dari tepung ketan dengan isian kacang hijau manis di dalamnya. Permukaan onde-onde ditaburi biji wijen yang memberikan aroma khas dan tekstur renyah. Onde-onde sangat populer di daerah seperti Jawa Tengah dan Jawa Timur, serta sering ditemukan di pasar tradisional."
+		},
+	"17" : {
+		"Name" : "Pastel",
+		"Info" : "Pastel adalah makanan ringan yang terdiri dari kulit pastry tipis berisi campuran sayuran, bihun, dan daging ayam atau telur. Setelah diisi, pastel dilipat, lalu digoreng hingga renyah. Pastel memiliki rasa gurih dan sering disajikan sebagai camilan dalam acara santai atau sebagai pelengkap teh sore."
+		},
+	"18" : {
+		"Name" : "Pepes",
+		"Info" : "Pepes adalah hidangan tradisional Indonesia yang dibuat dengan membungkus bahan seperti ikan, tahu, atau ayam dengan daun pisang, lalu dikukus atau dipanggang. Bumbunya terdiri dari rempah-rempah seperti bawang merah, bawang putih, cabai, kunyit, dan kemangi. Pepes memiliki aroma khas dari daun pisang yang memberikan cita rasa autentik."
+		},
+	"19" : {
+		"Name" : "Nasi Kuning",
+		"Info" : "Nasi kuning adalah hidangan khas Indonesia yang dibuat dari beras yang dimasak dengan santan dan kunyit, sehingga menghasilkan warna kuning cerah dan rasa gurih. Hidangan ini sering disajikan dengan berbagai lauk-pauk seperti ayam goreng, telur balado, perkedel, sambal goreng hati, serundeng, dan kerupuk."
+		},
+	"20" : {
+		"Name" : "Sate Ayam",
+		"Info" : "Sate ayam adalah hidangan berupa potongan kecil daging ayam yang ditusuk dengan bambu, kemudian dipanggang di atas arang. Sate biasanya disajikan dengan bumbu kacang yang kental, kecap manis, dan perasan jeruk limau, serta dilengkapi lontong atau nasi. Sate ayam populer di seluruh Indonesia sebagai makanan jalanan atau hidangan utama."
+		}
+}
